@@ -1,0 +1,22 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_modules_es_date_to-primitive_js-node_modules_core-js_modules_es_-e5c96f.js",
+        "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_fu-042691.js",
+        "/build/app.js"
+      ],
+      "css": [
+        "/build/app.css"
+      ]
+    },
+    "script": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_modules_es_date_to-primitive_js-node_modules_core-js_modules_es_-e5c96f.js",
+        "/build/script.js"
+      ]
+    }
+  }
+}
