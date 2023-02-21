@@ -27,14 +27,6 @@ yarn-error.log
 ###< symfony/webpack-encore-bundle ###
 
 ###> Removed Unecessary Folder And Files ###
-/translations/
-/tests/
-/.vscode/
-/bin/
-/public/pdf/
-/public/img/
-.env
-.env.*
-Innoraft.session.sql
+
 
 ###> Removed Unecessary Folder And Files ###
